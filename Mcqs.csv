@@ -1,0 +1,11 @@
+Question,Choice1,Choice2,Choice3,Choice4,Answer
+How many types of window(s) does python use?,One,Two,Three,Four,2
+What word describes a set of instructions?,Synopsis,Program,Blueprint,Agenda,2
+What is the maximum length of a python identifier?,32,16,128,No fixed length,4
+What is the variable type of a? a = 'yes',Integer,Float,String,Character,3
+Which of the following concepts in not a part of python?,Pointers,Loops,Variables,All of these,1
+Which function converts date to corresponding time in python?,strptime(),strftime(),Both,None,1
+How is the 3rd element in an array accessed based on pointer notation?,a+3,(a+3),*(*a+3),&(a+3),2
+Name the process of locating and removing the errors in a program?,Analyzing,Correcting,Debugging,Executing,3
+Which function is called automatically each time an object is destroyed?,Constructor,Destructor,Destroyer,Terminator,2
+The null character is represented by?,\n,\t,\o,\0,4
